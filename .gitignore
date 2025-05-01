@@ -1,0 +1,7 @@
+.clj-kondo/*
+.lsp/*
+.vscode/*
+.cpcache
+.work
+
+public
