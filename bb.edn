@@ -3,7 +3,9 @@
         {:git/sha "3a1d6aff07f692f6e62606317f3d9e981b1df702"}}
  :tasks
  {:requires ([quickblog.cli :as cli])
-  :init (def opts {:blog-title "More Shots On Goal"
-                   :blog-description "A collections of tries & fails, and occassional wins - by Cam Peterson"})
+  :init (def opts {:blog-author "Cam Peterson"
+                   :blog-title "More Shots On Goal"
+                   :blog-description "A collections of tries & fails, and occassional wins - by Cam Peterson"
+                   :blog-root "https://more-shots-on-goal.netlify.app"})
   quickblog {:doc "Start blogging quickly! Run `bb quickblog help` for details."
              :task (cli/dispatch opts)}}}
