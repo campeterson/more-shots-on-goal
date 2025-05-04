@@ -4,10 +4,9 @@ Tags: flying, apps
 
 *This is introductory post. I’ll share more over time. Originally posted here: https://ultrapilot.substack.com/p/which-app-should-i-use-while-flying*
 
-
 ## Background
 
-For a number of years, I’ve been flying general aviation and light sport aircraft. The last few years have been dedicated to flying powered parachutes (or PPCs - a very simple, safe and low-cost way to fly).
+For a number of years, I’ve been flying general aviation and light sport aircraft. The last few years have been dedicated to flying powered parachutes (PPCs) - a very simple, safe and low-cost way to fly.
 
 When I started flying powered parachutes, my aircraft had only engine gauges and an altimeter. Upon recommendation from friends, I began exploring a few different apps which used GPS to track my flight, show my GPS altitude and ground speed. After trying more than two dozen apps, including some of the most popular flying applications, I’ve settled on a core set of features that I use.
 
