@@ -1,6 +1,6 @@
 Title: Can you use a Garmin aviator watch as a GPS source for wifi-only iPads?
 Date: 2025-05-03
-Tags: flying, apps, GPS, Garmin, D2 Mach 1 Pro, iPad
+Tags: flying, apps, GPS, Garmin Pilot, Garmin Explore, D2 Mach 1 Pro, iPad
 
 ## Question:
 
